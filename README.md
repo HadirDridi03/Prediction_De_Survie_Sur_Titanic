@@ -1,3 +1,19 @@
+# 🚢 Prédiction de Survie des Passagers du Titanic
+
+**Réalisé par :** Hanin Hedhli, Hadir Dridi, Ella Soussi, Jihen Souissi  
+**Superviseur :** Olfa Chebbi  
+**Outils :** Python, Jupyter Notebook, Scikit-learn, Pandas, Matplotlib, Seaborn  
+
+---
+
+## 🔍 À propos du projet
+
+Ce projet applique des algorithmes de **machine learning** pour prédire la survie des passagers du Titanic en fonction de caractéristiques telles que : âge, sexe, classe, famille à bord, tarif, et port d’embarquement.  
+
+**Objectifs :**  
+- Comparer plusieurs modèles de classification (Arbre de Décision, SVM, KNN)  
+- Évaluer leurs performances sur le dataset Titanic  
+- Extraire des insights pour améliorer les prédictions  
 
 ---
 
